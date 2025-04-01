@@ -7,4 +7,5 @@ export interface Song {
   cover: string;
   audioSrc: string;
   duration: number;
+  genre?: string;  // Optional genre field for categorization
 }
