@@ -73,5 +73,374 @@ export const songs: Song[] = [
     cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
     audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
     duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
+  },
+  {
+    id: 8,
+    title: "Acoustic Morning",
+    artist: "Gentle Strings",
+    album: "Simple Days",
+    cover: "https://images.unsplash.com/photo-1465821185615-20b3c2fbf41b?w=400&h=400&auto=format&fit=crop",
+    audioSrc: "https://audio-previews.elements.envatousercontent.com/files/308494599/preview.mp3",
+    duration: 198
   }
 ];
